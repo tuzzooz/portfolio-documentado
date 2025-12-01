@@ -6,163 +6,19 @@
 
 <br/>
 
-### 💻 Sobre Mim
+### Apresentação
 
-Sou estudante do curso de **Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos** e um entusiasta do desenvolvimento Full Stack.
+Meu nome é **Otávio Vianna Lima**, tenho 21 anos e sou residente de São José dos Campos. Atualmente estou no 3º semestre do curso de **Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos**.
 
-Busco oportunidades como **Desenvolvedor Júnior**, focando em criar soluções escaláveis, performáticas e com design intuitivo. Tenho experiência prática integrando backends robustos (Python/Node.js/Java/Spring) com interfaces modernas e responsivas. Além das skills técnicas, possuo **Inglês Fluente** (Certificação Cambridge e TOEIC), o que me permite consumir documentações avançadas e atuar em equipes internacionais.
+**Histórico Acadêmico e Profissional**
+Antes de ingressar na Fatec, concluí meus estudos na UNIVAP. Minha motivação para entrar na Fatec veio da fascinação que tenho desde pequeno com programação e computadores.
 
----
+Atualmente, busco minha primeira oportunidade formal como **Desenvolvedor Júnior**. Tenho dedicado meu tempo a projetos acadêmicos e pessoais que simulam ambientes reais de desenvolvimento, focando em criar soluções escaláveis e performáticas.
 
-### 🔧 Tecnologias 
-
-**Linguagens**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Front-end**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Back-end & Database**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & DevOps**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📋 Meus Projetos
-
-### ▼ API-FATEC | 2025-2 (3º Semestre)
-
-### GSW Task Manager
-
-> **Status do Projeto:** Concluído
-
-O desafio proposto pela GSW foi desenvolver uma plataforma web focada no gerenciamento de tarefas e colaboração em equipe. A solução vai além de um simples organizador, integrando controle de atividades, categorização por prioridade, visualização de prazos e atribuição de responsabilidades. O sistema conta com login seguro e interface responsiva para uso em desktop e mobile.
-
-<a href="https://github.com/the-devs-department/GSW-2025.2-3Sem" target="_blank">
-  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-0077B5?style=for-the-badge&logo=github&logoColor=white" />
-</a> 
-
----
-
-#### Contribuições Pessoais
-- **Arquitetura de Microsserviços:** Atuei no desenho e implementação da arquitetura distribuída utilizando Java e Spring Boot.
-- **Serviço de Notificações:** Desenvolvi integralmente o microsserviço responsável por gerenciar e disparar notificações para os usuários.
-- **Backend "Minhas Tarefas":** Implementei toda a lógica de backend e regras de negócio para a funcionalidade de gestão pessoal de tarefas.
-- **Integração:** Garanti a comunicação eficiente entre o front-end (React) e os serviços do back-end.
-
-#### Tecnologias Utilizadas
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/microservices-%23000?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-#### Hard Skills Desenvolvidas
-- **Java/Spring Boot (Microsserviços):** Realizo com autonomia.
-- **Arquitetura de Software:** Realizo com autonomia.
-
-#### Soft Skills Desenvolvidas
-> **Pensamento Sistêmico:** Ao desenvolver microsserviços, precisei entender como cada pequena parte do sistema (como as notificações) impactava o todo, garantindo que a comunicação entre os serviços fosse fluida.
-
-> **Resiliência:** A transição para uma arquitetura mais complexa (Microsserviços) trouxe desafios técnicos que exigiram estudo aprofundado e persistência para serem solucionados.
-
-<br/>
-
----
-
-### ▼ API-FATEC | 2025-1 (2º Semestre)
-
-### Dashboard - Helpnei
-
-> **Status do Projeto:** Concluído
-
-O projeto consiste no desenvolvimento de um dashboard de indicadores para a empresa Helpnei. O foco principal foi o monitoramento de métricas estratégicas, como desempenho de lojas, cadastro de usuários e volume de transações, permitindo uma análise clara para a tomada de decisões.
-
-<a href="https://github.com/the-devs-department/HELPNEI-2025.1-2Sem" target="_blank">
-  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-0077B5?style=for-the-badge&logo=github&logoColor=white" />
-</a> 
-
----
-
-#### Contribuições Pessoais
-- Criação completa do Design e Prototipação da interface no Figma, focando em UX/UI.
-- Desenvolvimento do Front-end utilizando HTML e Tailwind CSS para garantir responsividade.
-- Implementação de lógica em JavaScript e Node.js para manipulação de dados.
-- Criação de gráficos dinâmicos e animados para visualização de métricas em tempo real.
-
-#### Tecnologias Utilizadas
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### Hard Skills Desenvolvidas
-- **Figma/Front-end:** Realizo com autonomia.
-- **Integração de Gráficos (JS):** Realizo com autonomia.
-
-#### Soft Skills Desenvolvidas
-> **Design Thinking:** Ao projetar o dashboard, precisei entender profundamente as necessidades do cliente para traduzir dados brutos em visualizações intuitivas e úteis.
-
-> **Visão Analítica:** Desenvolvi a capacidade de selecionar quais métricas eram realmente relevantes para o negócio, filtrando informações para não poluir a interface.
-
-<br/>
-
----
-
-### ▼ API-FATEC | 2024-2 (1º Semestre)
-
-### Câmara dos Vereadores SJC
-
-> **Status do Projeto:** Concluído
-
-Plataforma desenvolvida para transformar dados públicos da prefeitura em informações acessíveis e interativas sobre os vereadores da cidade. O sistema apresenta assiduidade, proposições e participação em comissões, além de permitir a avaliação do mandato pelos cidadãos.
-
-<a href="https://github.com/nicolygz/the-devs-department" target="_blank">
-  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-0077B5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-#### Contribuições Pessoais
-- Desenvolvimento da página de perfil dos vereadores com layout responsivo.
-- Implementação de gráficos interativos com JavaScript integrados ao Backend.
-- Criação de scripts em Python para leitura e extração automática de dados de PDFs de votações.
-- Automação da atribuição de votos aos perfis no banco de dados.
-
-#### Tecnologias Utilizadas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-#### Hard Skills Desenvolvidas
-- **Python (Automação/Scripting):** Realizo com autonomia.
-- **MySQL/Modelagem de Dados:** Realizo com auxílio.
-
-#### Soft Skills Desenvolvidas
-> **Resolução de Problemas:** O desafio de extrair dados de arquivos PDF não estruturados exigiu pesquisa e implementação de lógica complexa para garantir a integridade das informações no banco de dados.
-
-> **Trabalho em Equipe:** Atuei na integração entre o back-end (Python) e o front-end, garantindo que os dados processados fossem exibidos corretamente para o usuário final.
+**Contatos**
+* [GitHub](https://github.com/tuzzooz)
+* [LinkedIn](https://www.linkedin.com/in/otávio-vianna-lima-1b26a932a)
+* E-mail: otavioviannalima@gmail.com
 
 ---
 
@@ -173,9 +29,123 @@ Plataforma desenvolvida para transformar dados públicos da prefeitura em inform
 
 ---
 
-### 📫 Contato
+### Meus Principais Conhecimentos
 
-<div> 
-  <a href="https://www.linkedin.com/in/otávio-vianna-lima-1b26a932a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:otavioviannalima@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+**Linguagens e Banco de Dados**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frameworks e Ferramentas**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## Projetos API
+
+### API 3º Semestre (2025-2)
+
+**Parceiro Acadêmico:** GSW Soluções Integradas
+
+**Problema**
+A empresa parceira enfrentava dificuldades na organização interna de demandas. A falta de uma plataforma centralizada para o gerenciamento de tarefas causava falhas de comunicação entre as equipes, perda de prazos importantes e dificuldade em priorizar atividades críticas. Não havia uma visão clara de quem era o responsável por qual etapa do processo, gerando retrabalho e ineficiência operacional.
+
+**Solução**
+Para solucionar esse cenário, desenvolvemos uma **Plataforma Web de Gestão de Tarefas**. O sistema permite a criação, edição e exclusão de tarefas, categorização por níveis de prioridade e prazos, além de possibilitar a atribuição de responsabilidades a usuários específicos. A solução inclui um painel administrativo para gestores e uma visualização pessoal para colaboradores, garantindo que a informação flua de maneira organizada e transparente, acessível tanto via Desktop quanto Mobile.
+
+**Tecnologias Utilizadas**
+* **Java e Spring Boot:** Utilizados no desenvolvimento dos microsserviços do Back-end.
+* **MongoDB:** Banco de dados não relacional utilizado para persistência das tarefas.
+* **React e TypeScript:** Utilizados na construção das interfaces do Front-end.
+* **RabbitMQ/Kafka:** Utilizado para a comunicação assíncrona do serviço de notificações.
+
+**Contribuições Pessoais**
+Neste projeto, atuei como **Desenvolvedor Full Stack** dentro do Dev Team. Minha principal responsabilidade foi desenhar e implementar a arquitetura de microsserviços, garantindo a escalabilidade do sistema. Fui o responsável direto pelo desenvolvimento do "Serviço de Notificações", criando a lógica que monitora prazos e dispara alertas para os usuários. Além disso, atuei na integração entre os endpoints do Back-end (Java) e as interfaces do Front-end (React).
+
+**Hard Skills**
+* Java/Spring Boot (Microsserviços): Faço com autonomia.
+* Arquitetura de Software: Faço com autonomia.
+* React/Front-end: Faço com auxílio.
+
+**Soft Skills**
+* **Pensamento Sistêmico:** Ao projetar a comunicação entre os microsserviços, precisei analisar como uma falha no serviço de tarefas impactaria o serviço de notificações, desenvolvendo mecanismos de fallback para garantir a estabilidade do todo.
+* **Resiliência:** Durante a configuração do ambiente de desenvolvimento distribuído, enfrentamos diversos erros de conexão. Mantive a persistência na leitura das documentações e logs até estabilizar a infraestrutura.
+
+[LINK DO REPOSITÓRIO GIT](https://github.com/the-devs-department/GSW-2025.2-3Sem)
+
+<br/>
+
+---
+
+### API 2º Semestre (2025-1)
+
+**Parceiro Acadêmico:** Helpnei
+
+**Problema**
+A Helpnei possuía uma grande quantidade de dados sobre vendas e afiliados, mas essas informações estavam dispersas e de difícil leitura. A empresa não conseguia visualizar de forma rápida indicadores cruciais, como o crescimento de cadastros por região ou o desempenho individual de lojas, o que dificultava a tomada de decisões estratégicas baseadas em dados (Data Driven).
+
+**Solução**
+Desenvolvemos um **Dashboard Web de Indicadores** interativo. A aplicação processa os dados brutos e os apresenta através de gráficos dinâmicos e intuitivos. O sistema permite filtrar informações por período, região e categoria, oferecendo uma visão macro e micro do negócio. A interface foi projetada com foco em UX para garantir que gestores não técnicos pudessem extrair insights valiosos sem dificuldade.
+
+**Tecnologias Utilizadas**
+* **Node.js:** Backend para processamento dos dados.
+* **Figma:** Prototipação de alta fidelidade das telas.
+* **Tailwind CSS e HTML5:** Estilização responsiva do dashboard.
+* **JavaScript:** Lógica de renderização dos gráficos animados.
+
+**Contribuições Pessoais**
+Atuei como **Desenvolvedor Front-end e Designer**, sendo responsável pela experiência do usuário. Liderei a etapa de prototipação no Figma junto do nosso Product Owner, assim, validando o layout com o cliente antes do código. No desenvolvimento, implementei a lógica JavaScript que alimenta os gráficos em tempo real e utilizei Tailwind CSS para garantir que o dashboard fosse totalmente responsivo em diferentes tamanhos de tela.
+
+**Hard Skills**
+* Figma (Prototipação): Faço com autonomia.
+* JavaScript (Manipulação de DOM): Faço com autonomia.
+* Node.js: Faço com auxílio.
+
+**Soft Skills**
+* **Visão Analítica:** Durante o levantamento de requisitos, analisei quais métricas eram irrelevantes e sugeri focar apenas nos KPIs que traziam valor real ao negócio, evitando poluição visual no dashboard.
+* **Entendimento de UI/UX:** Ao desenhar a interface, coloquei-me no lugar do usuário final (gestor) para simplificar a navegação, garantindo que a informação mais importante estivesse sempre a no máximo dois cliques de distância.
+
+[LINK DO REPOSITÓRIO GIT](https://github.com/the-devs-department/HELPNEI-2025.1-2Sem)
+
+<br/>
+
+---
+
+### API 1º Semestre (2024-2)
+
+**Parceiro Acadêmico:** Professor Fernando Masanori (Câmara dos Vereadores)
+
+**Problema**
+Os cidadãos de São José dos Campos enfrentam uma barreira de acesso à informação pública. Os dados sobre a atuação dos vereadores (votos, presença, gastos) estavam disponíveis apenas em arquivos PDF complexos e pouco amigáveis no site da prefeitura, dificultando a fiscalização e o acompanhamento do mandato pelos eleitores.
+
+**Solução**
+Criamos um **Portal de Transparência Web** que centraliza e simplifica os dados dos vereadores. O sistema extrai as informações dos documentos oficiais e as exibe em perfis individuais organizados, com gráficos de assiduidade e histórico de votações. Isso democratizou o acesso à informação, permitindo que qualquer munícipe avalie o desempenho de seus representantes de forma clara.
+
+**Tecnologias Utilizadas**
+* **Python:** Scripts de automação e extração de dados (Scraping/Leitura de PDF).
+* **Flask:** Framework web para o backend.
+* **MySQL:** Banco de dados para armazenar os registros processados.
+* **HTML/CSS:** Interface do usuário.
+
+**Contribuições Pessoais**
+Neste projeto, atuei como **Desenvolvedor Backend**, com foco em automação de dados. Minha principal entrega foi a criação de um script em Python capaz de ler os arquivos PDF das atas de votação, interpretar o texto não estruturado e salvar os votos automaticamente no banco de dados MySQL, vinculando-os ao perfil de cada vereador. Também apoiei na construção das páginas HTML dos perfis.
+
+**Hard Skills**
+* Python (Scripting/Automação): Faço com autonomia.
+* MySQL: Faço com auxílio.
+* HTML/CSS: Faço com autonomia.
+
+**Soft Skills**
+* **Resolução de Problemas:** O formato dos PDFs da câmara variava muito, o que quebrava o script de leitura. Precisei investigar padrões no texto e criar expressões regulares (Regex) robustas para garantir que nenhum voto fosse perdido.
+* **Trabalho em Equipe:** Como o meu script alimentava o banco que o Front-end usava, mantive comunicação constante com os colegas responsáveis pelo visual para garantir que os dados chegassem no formato correto para exibição.
+
+[LINK DO REPOSITÓRIO GIT](https://github.com/nicolygz/the-devs-department)
+
+---
+
+
+
