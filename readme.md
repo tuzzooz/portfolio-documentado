@@ -75,7 +75,9 @@ Neste projeto, atuei como **Desenvolvedor Full Stack** dentro do Dev Team. Minha
 * **Pensamento Sistêmico:** Ao projetar a comunicação entre os microsserviços, precisei analisar como uma falha no serviço de tarefas impactaria o serviço de notificações, desenvolvendo mecanismos de fallback para garantir a estabilidade do todo.
 * **Resiliência:** Durante a configuração do ambiente de desenvolvimento distribuído, enfrentamos diversos erros de conexão. Mantive a persistência na leitura das documentações e logs até estabilizar a infraestrutura.
 
-[LINK DO REPOSITÓRIO GIT](https://github.com/the-devs-department/GSW-2025.2-3Sem)
+<a href="https://github.com/the-devs-department/GSW-2025.2-3Sem" target="_blank">
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/>
 
@@ -109,7 +111,9 @@ Atuei como **Desenvolvedor Front-end e Designer**, sendo responsável pela exper
 * **Visão Analítica:** Durante o levantamento de requisitos, analisei quais métricas eram irrelevantes e sugeri focar apenas nos KPIs que traziam valor real ao negócio, evitando poluição visual no dashboard.
 * **Entendimento de UI/UX:** Ao desenhar a interface, coloquei-me no lugar do usuário final (gestor) para simplificar a navegação, garantindo que a informação mais importante estivesse sempre a no máximo dois cliques de distância.
 
-[LINK DO REPOSITÓRIO GIT](https://github.com/the-devs-department/HELPNEI-2025.1-2Sem)
+<a href="https://github.com/the-devs-department/HELPNEI-2025.1-2Sem" target="_blank">
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/>
 
@@ -143,7 +147,9 @@ Neste projeto, atuei como **Desenvolvedor Backend**, com foco em automação de 
 * **Resolução de Problemas:** O formato dos PDFs da câmara variava muito, o que quebrava o script de leitura. Precisei investigar padrões no texto e criar expressões regulares (Regex) robustas para garantir que nenhum voto fosse perdido.
 * **Trabalho em Equipe:** Como o meu script alimentava o banco que o Front-end usava, mantive comunicação constante com os colegas responsáveis pelo visual para garantir que os dados chegassem no formato correto para exibição.
 
-[LINK DO REPOSITÓRIO GIT](https://github.com/nicolygz/the-devs-department)
+<a href="https://github.com/nicolygz/the-devs-department" target="_blank">
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
