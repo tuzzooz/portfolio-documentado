@@ -66,6 +66,17 @@ Para solucionar esse cenário, desenvolvemos uma **Plataforma Web de Gestão de 
 **Contribuições Pessoais**
 Neste projeto, atuei como **Desenvolvedor Full Stack** dentro do Dev Team. Minha principal responsabilidade foi desenhar e implementar a arquitetura de microsserviços, garantindo a escalabilidade do sistema. Fui o responsável direto pelo desenvolvimento do "Serviço de Notificações", criando a lógica que monitora prazos e dispara alertas para os usuários. Além disso, atuei na integração entre os endpoints do Back-end (Java) e as interfaces do Front-end (React).
 
+**Identificação de Problemas**
+
+1. Falta de transparência e comunicação insuficiente:
+A falta de comunicação e de total honestidade entre os membros prejudicou o andamento do projeto. Muitas vezes evitei fazer críticas construtivas por receio de gerar conflitos, mas percebi que esse tipo de conversa é necessário e contribui para a melhoria do grupo como um todo.
+
+2. Entregas inconsistentes:
+Alguns membros entregaram tarefas de forma irregular, o que resultou em código pouco estável ao longo do tempo. Isso fez com que diversas partes precisassem ser refatoradas para que o projeto pudesse avançar, consumindo mais tempo e esforço da equipe.
+
+3. Falta de proatividade/iniciativa:
+Em alguns momentos, sinto que poderia ter sido mais proativo e ajudado mais o grupo diante das dificuldades. Com o progresso do projeto, ganhei mais confiança e passei a assumir mais responsabilidades.
+
 **Hard Skills**
 * Java/Spring Boot (Microsserviços): Faço com autonomia.
 * Arquitetura de Software: Faço com autonomia.
