@@ -57,6 +57,7 @@ O desafio proposto pela GSW foi desenvolver uma plataforma web focada no gerenci
 <a href="https://github.com/the-devs-department/GSW-2025.2-3Sem" target="_blank">
   <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-0077B5?style=for-the-badge&logo=github&logoColor=white" />
 </a> 
+
 ---
 
 #### Contribuições Pessoais
@@ -136,7 +137,7 @@ O projeto consiste no desenvolvimento de um dashboard de indicadores para a empr
 
 Plataforma desenvolvida para transformar dados públicos da prefeitura em informações acessíveis e interativas sobre os vereadores da cidade. O sistema apresenta assiduidade, proposições e participação em comissões, além de permitir a avaliação do mandato pelos cidadãos.
 
-<a href="https://github.com/tuzzooz/the-devs-departmentm" target="_blank">
+<a href="https://github.com/nicolygz/the-devs-department" target="_blank">
   <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-0077B5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
